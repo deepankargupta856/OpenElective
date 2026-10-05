@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.venv_test/
+venv/
+env/
+.env
+.streamlit/secrets.toml
+outputs/*
+!outputs/.gitkeep
+sample/*.mp4
+sample/*.avi
+sample/*.mov
+*.pt
